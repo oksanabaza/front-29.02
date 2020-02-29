@@ -1,0 +1,20 @@
+{
+  "name": "front-29.02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksanamisiura/front-29.02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksanamisiura/front-29.02/issues"
+  },
+  "homepage": "https://github.com/oksanamisiura/front-29.02#readme"
+}
